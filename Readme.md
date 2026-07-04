@@ -73,6 +73,10 @@ Final Analysis Report
 - Advanced visual analytics
 
 ## screenshots
+### THUMBNAIL IMAGE
+  ![image](banner.jpeg)
+
+### OUTPUTS
   ![image](chart.png)
   ![image](output.png)
 
