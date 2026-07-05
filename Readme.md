@@ -77,8 +77,15 @@ Final Analysis Report
   ![image](banner.jpeg)
 
 ### OUTPUTS
+
+## CHART
   ![image](chart.png)
+  
+## ANTIGRAVITY IDE WORKFLOW  
   ![image](output.png)
+  
+## AGENT EXECUTION OUTPUT  
+  ![image](terminal.png)
 
 ## Author
 Arya Singh
